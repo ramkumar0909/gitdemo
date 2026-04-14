@@ -1,4 +1,1 @@
-demo_test.go
-
-Added test for the main function in the main package. This test checks if the main function executes without any errors.
-package demo
+demo 1
